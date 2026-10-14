@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="[https://www.istockphoto.com/br/fotos/seguran%C3%A7a-de-rede](https://pixabay.com/pt/images/download/thedigitalartist-biometrics-7119387_1920.jpg)" width="100%" alt="Header"/>
-
   <h1>Olá! Eu sou o João Victor 👋</h1>
   <p><i>Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por Python & Segurança</i></p>
 
